@@ -1,8 +1,13 @@
 # Calculator
-> A Simple Calculator program written in Assembley 
+> A Simple Calculator program written in Assembley for the LC3 Computer
 
-A Calculator program that adds, subtracts, multiplies, or divides operands up of to three digits.
+A Calculator program that adds, subtracts, multiplies, or divides operands of up to three digits.
 
+
+## LC3 Von Neumann Architecture
+
+Little Computer 3, or LC-3, is a type of computer educational programming language, an assembly language, which is a type of low-level programming language. It features a relatively simple instruction set, but can be used to write moderately complex assembly programs, and is a viable target for a C compiler.
+[Wikipedia](https://en.wikipedia.org/wiki/Little_Computer_3)
 
 ## Installation
 
@@ -14,11 +19,17 @@ A Calculator program that adds, subtracts, multiplies, or divides operands up of
 
 ## Usage example
 
-Screenshots will go here
+<div align="center">
+  <a href="https://github.com/SimpleLogix/Calculator">
+    <img src="media/3.png" length="550" width="500">
+  </a>
+  
+   <br/>
+    <figcaption align = "center"><b>Fig.1 - LC3 Simulator Console Running my Calc Program </b></figcaption>
+  
+</div>
+<br/><br/>
 
-## LC-3 Computer
-
-Some info about the LC3 computer here
 
 ## Contact
 
